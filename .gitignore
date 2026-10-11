@@ -1,0 +1,15 @@
+node_modules/
+.env
+*.log
+.DS_Store
+Infilms/
+backend/
+frontend/
+master/
+env/
+*.png
+*.jpg
+*.jpeg
+!cute_corner/*.jpg
+!cute_corner/*.jpeg
+!cute_corner/*.png
